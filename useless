@@ -1,0 +1,7 @@
+#include<iostream>
+usingnamespace std;
+int main()
+{
+   cout<<"useless"<<endl;
+   return 0;
+   }
